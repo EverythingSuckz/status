@@ -23,7 +23,6 @@ status-website:
       href: /
     - title: File Stream Bot
       href: https://telegram.dog/RapidStreamBot
-status-website:
   theme: night
 workflowSchedule:
   graphs: "*/30 * * * *"
