@@ -4,17 +4,17 @@
     "url": "https://invalid.gq/status",
     "icon": "https://invalid.gq/favicon.ico",
     "slug": "file-stream-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
     "uptimeDay": "99.09%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.13%",
-    "time": 1357,
-    "timeDay": 1318,
-    "timeWeek": 1357,
-    "timeMonth": 1357,
-    "timeYear": 1357,
+    "time": 1692,
+    "timeDay": 1659,
+    "timeWeek": 1692,
+    "timeMonth": 1692,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2023-04-12": 13
     }
