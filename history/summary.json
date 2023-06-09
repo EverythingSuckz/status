@@ -4,7 +4,7 @@
     "url": "https://api.invalid.gq/api/status",
     "icon": "https://invalid.gq/favicon.ico",
     "slug": "file-stream-server",
-    "status": "down",
+    "status": "up",
     "uptime": "46.02%",
     "uptimeDay": "88.07%",
     "uptimeWeek": "98.30%",
@@ -12,7 +12,7 @@
     "uptimeYear": "46.02%",
     "time": 700,
     "timeDay": 1124,
-    "timeWeek": 952,
+    "timeWeek": 951,
     "timeMonth": 808,
     "timeYear": 700,
     "dailyMinutesDown": {
