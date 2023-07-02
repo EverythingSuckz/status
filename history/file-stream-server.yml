@@ -1,7 +1,7 @@
 url: https://api.invalid.gq/api/status
-status: down
-code: 502
-responseTime: 668
-lastUpdated: 2023-07-02T15:33:49.004Z
+status: up
+code: 200
+responseTime: 510
+lastUpdated: 2023-07-02T15:40:02.308Z
 startTime: Tue Apr 11 2023 19:46:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
